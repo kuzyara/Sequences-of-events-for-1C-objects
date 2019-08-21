@@ -15,7 +15,7 @@
 * https://infostart.ru/public/1098803/
 
 ## ПодпискиНаСобытияОбъектовМетаданных.epf
-* ОФ и УФ __[Скачать](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/releases/latest/download/Sequences-of-events-for-1C-objects.zip)__
+* ОФ и УФ __[Скачать](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/releases/latest/download/Sequences-of-events-for-1C-objects.zip)__ [![Github All Releases](https://img.shields.io/github/downloads/kuzyara/Sequences-of-events-for-1C-objects/total.svg)]()
 * разделение по документам, справочникам, регистрам и т.д.
 * соблюдается подрядок вызова как в дереве метаданных
 ![image](https://user-images.githubusercontent.com/2604430/63091901-1e85fb80-bf8a-11e9-863f-e096ddc6bb99.png)
