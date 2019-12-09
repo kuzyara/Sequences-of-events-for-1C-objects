@@ -18,7 +18,14 @@
 
 ## Последовательность событий при открытии формы:
 ![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/FormSeqDiagram.png)
-
+```bsl
+// активация модуля формы проверяется с помощью конструкции
+#Если Клиент Тогда
+	Сообщить("6. Активация модуля формы (клиент)");
+#Иначе
+	Сообщить("2. Активация модуля формы (сервер)");
+#КонецЕсли
+```
 Источники: 
 * http://1centerprise8.blogspot.com/2015/03/posled-sobytij-document.html
 * http://1centerprise8.blogspot.com/2016/08/sobytija-formy-obekta.html
