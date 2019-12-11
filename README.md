@@ -32,6 +32,7 @@
 Источники: 
 * http://1centerprise8.blogspot.com/2015/03/posled-sobytij-document.html
 * http://1centerprise8.blogspot.com/2016/08/sobytija-formy-obekta.html
+* https://its.1c.ru/db/pubv8devui#content:212:hdoc
 * https://infostart.ru/public/1098803/
 
 ## ПодпискиНаСобытияОбъектовМетаданных.epf
