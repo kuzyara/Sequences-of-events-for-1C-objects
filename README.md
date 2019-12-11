@@ -4,7 +4,7 @@
 4. [ПодпискиНаСобытияОбъектовМетаданных.epf](#подпискинасобытияобъектовметаданныхepf)
 
 ## Последовательность событий при проведении документа:
-![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/ПоследовательностьСобытийДокумента_v1.1.png?raw=true)
+![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/ПоследовательностьСобытийДокументаПроведение_v1.1.png?raw=true)
 
 >**Про подписки:**
 >* Дополнение1: все подписки на события выполняются после стандартных обработчиков Объекта(не формы) и выполняются тоже только на сервере
@@ -15,7 +15,7 @@
 ![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/ПоследовательностьСобытийДокументаОтменаПроведения_v1.1.png)
 
 ## Последовательность событий при открытии формы:
-![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/FormSeqDiagram.png)
+![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/ПоследовательностьСобытийДокументаОткрытиеФормы.png)
 
 >* События ПриЧтенииНаСервере/ПриКопировании/ОбработкаЗаполнения возникают при открытии существующего/копировании/вводе нового соответственно.
 >* Активация модуля формы проверяется с помощью конструкции:
