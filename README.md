@@ -17,8 +17,6 @@
 ## Последовательность событий при открытии формы:
 ![alt text](https://github.com/kuzyara/Sequences-of-events-for-1C-objects/blob/master/ПоследовательностьСобытийДокументаОткрытиеФормы.png)
 
-[Схема на draw.io](https://app.diagrams.net/?mode=github#Hkuzyara%2FSequences-of-events-for-1C-objects%2Fmaster%2FFormSeqDiagram.drawio)
-
 >* События ПриЧтенииНаСервере/ПриКопировании/ОбработкаЗаполнения возникают при открытии существующего/копировании/вводе нового соответственно.
 >* Активация модуля формы проверяется с помощью конструкции:
 >```bsl
