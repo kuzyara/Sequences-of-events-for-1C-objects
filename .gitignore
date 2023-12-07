@@ -1,0 +1,16 @@
+﻿temp/*
+
+features/ignore/*
+allure-report/*
+[Bb]uild/*
+spec/soapui-errors.log.[0-9]*
+spec/*.log
+*.log
+*.zip
+*.stackdump
+*.log.[0-9]
+????????-????-????-????-*
+ConfigDumpInfo.xml
+Jenkinsfile_mpi
+Jenkinsfile_kna
+desktop.ini
